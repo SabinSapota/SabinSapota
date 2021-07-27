@@ -7,4 +7,4 @@
 - Hackerank assessment on SQL:-https://www.hackerrank.com/certificates/b6c37b351003
 - Hackerank assessment on python:-https://www.hackerrank.com/certificates/7b89036de236
 - Applied Data science module:-https://www.credly.com/badges/b3c6d3f3-1e17-4d78-9d4c-42e9677a2edf?source=linked_in_profile
-- Kaggle Machine Learning:-https://www.kaggle.com/learn/certification/sabin35/intermediate-machine-learning
+
