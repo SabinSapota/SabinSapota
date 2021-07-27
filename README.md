@@ -4,3 +4,5 @@
 - 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me sober.sabin@gmail.com
 - for dashbaord:-https://public.tableau.com/app/profile/sabin.sapkota
+- Hackerank assessment on SQL:-https://www.hackerrank.com/certificates/b6c37b351003
+- Hackerank assessment on python:-https://www.hackerrank.com/certificates/7b89036de236
