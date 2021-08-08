@@ -6,5 +6,6 @@
 - for dashbaord:-https://public.tableau.com/app/profile/sabin.sapkota
 - Hackerank assessment on SQL:-https://www.hackerrank.com/certificates/b6c37b351003
 - Hackerank assessment on python:-https://www.hackerrank.com/certificates/7b89036de236
-- Applied Data science module:-https://www.credly.com/badges/b3c6d3f3-1e17-4d78-9d4c-42e9677a2edf?source=linked_in_profile
+- Applied Data science module(Unit 1):-https://www.credly.com/badges/b3c6d3f3-1e17-4d78-9d4c-42e9677a2edf?source=linked_in_profile
+- National Level Online quiz on Statistics:-https://drive.google.com/drive/my-drive
 
