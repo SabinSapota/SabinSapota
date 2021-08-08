@@ -8,5 +8,6 @@
 - Hackerank assessment on python:-https://www.hackerrank.com/certificates/7b89036de236
 - Applied Data science module(Unit 1):-https://www.credly.com/badges/b3c6d3f3-1e17-4d78-9d4c-42e9677a2edf?source=linked_in_profile
 - National Level online quiz on Statistics:-https://www.linkedin.com/in/sabin-sapkota-250b9a5a/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAAyiQdwBphN8-QWay374Wj5cTUyS2p016vk,1617986063863)/
-
+- Data Analytic virtual experince program:-https://www.linkedin.com/in/sabin-sapkota-250b9a5a/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAAyiQdwBphN8-QWay374Wj5cTUyS2p016vk,1635458508847)/
+- Fundamental of digital marketing:-https://www.linkedin.com/in/sabin-sapkota-250b9a5a/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAAyiQdwBphN8-QWay374Wj5cTUyS2p016vk,1635454367389)/
 
