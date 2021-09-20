@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me sober.sabin@gmail.com
 - for Tableau dashbaord:-https://public.tableau.com/app/profile/sabin.sapkota
-- Hackerank assessment on SQL:-https://www.hackerrank.com/certificates/b6c37b351003
-- Hackerank assessment on python:-https://www.hackerrank.com/certificates/7b89036de236
+- Hackerank assessment on SQl:-https://www.hackerrank.com/certificates/73dc5e03a195
 - SQL workshop:-https://courses.packtpub.com/certificates/fqurmhltwl
 
 - National Level online quiz on Statistics:-https://www.linkedin.com/in/sabin-sapkota-250b9a5a/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAAyiQdwBphN8-QWay374Wj5cTUyS2p016vk,1617986063863)/
