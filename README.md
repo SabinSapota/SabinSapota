@@ -7,6 +7,5 @@
 - Hackerank assessment on SQl:-https://www.hackerrank.com/certificates/73dc5e03a195
 
 - National Level online quiz on Statistics:-https://www.linkedin.com/in/sabin-sapkota-250b9a5a/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAAyiQdwBphN8-QWay374Wj5cTUyS2p016vk,1617986063863)/
-- Data Analytic virtual experince program:-https://www.linkedin.com/in/sabin-sapkota-250b9a5a/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAAyiQdwBphN8-QWay374Wj5cTUyS2p016vk,1635458508847)/
-- Fundamental of digital marketing:-https://www.linkedin.com/in/sabin-sapkota-250b9a5a/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAAyiQdwBphN8-QWay374Wj5cTUyS2p016vk,1635454367389)/
+
 
